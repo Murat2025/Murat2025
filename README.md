@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Murat Göcmen 👋
 
-<!--
-**Murat2025/Murat2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Database Automation & SQL Expert
+I bridge the gap between **Excel-Chaos** and professional **SQL Databases**. With over 15 years of experience at **DHL Group**, I understand the logistical challenges of data management.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certifications
+- **SQL Implementation & Design:** 92 / 100 Points
+- **Web Development (PHP/JS/HTML):** 85 / 100 Points
+
+### 🛠 Tech Stack
+- **Databases:** MySQL, MariaDB, SQL Server
+- **Languages:** PHP, VBA (Excel), SQL, JavaScript
+- **Specialty:** Migrating Excel-Workflows to secure SQL-Backends
+
+---
+
+### 📫 Reach me at:
+- **LinkedIn:** [Your LinkedIn Profile Link]
+- **Email:** muratgoecmen@mail.de
+- **Website:** [https://excelphpbridge.com](https://excelphpbridge.com)
+
+*"Turning spreadsheet limitations into database opportunities."*
